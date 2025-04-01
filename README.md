@@ -4,13 +4,13 @@ This repository provides hands-on examples of the OWASP Top 10 security vulnerab
 1. [Broken Access Control](/Broken_Access_Control/)
 2. [Cryptographic Failures](/Cryptographic_Failures/)
 3. [Injection](/Injection/)
-4. [Security Misconfiguration](/Security_Misconfiguration/)
-5. [Vulnerable and Outdated Componenets](/Vulnerable_And_Outdated_Components/)
-6. [Identification and Authentication Failures](/Identification_And_Authentication_Failures/)
-7. [Software and Data Integrity Failures](/Software_And_Data_Integrity_Failures/)
-8. [Broken Access Control](/Broken_Access_Control/)
-9. [Broken Access Control](/Broken_Access_Control/)
-10. [Broken Access Control](/Broken_Access_Control/)
+4. [Insecure Design](/Insecure_Design/)
+5. [Security Misconfiguration](/Security_Misconfiguration/)
+6. [Vulnerable and Outdated Components](/Vulnerable_And_Outdated_Components/)
+7. [Identification and Authentication Failures](/Identification_And_Authentication_Failures/)
+8. [Software and Data Integrity Failures](/Software_And_Data_Integrity_Failures/)
+9. [Security Logging and Monitoring Failures](/Security_Logging_And_Monitoring_Failures/)
+10. [Server-Side Request Forgery (SSRF)](/Broken_Access_Control/)
 
 Each section contains:
 - **Vulnerable Code Example**
