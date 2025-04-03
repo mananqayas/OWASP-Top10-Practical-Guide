@@ -1,0 +1,12 @@
+version: '3'
+services:
+  frontend:
+    image: mananqayasdev/bacfrontendv2
+    ports:
+     - "5173:5173"
+    depends_on:
+      - backend
+  backend:
+    image: mananqayasdev/bacbackendv2
+    ports:
+      - "5000:5000"
